@@ -2,14 +2,16 @@ head {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     orientation: center;
-
 }
 
 body {
-    color:red;
     font-size:medium;
 }
 
 p {
-    color:greenyellow;
+    color:blue;
+}
+
+#p2 {
+    color:green;
 }
